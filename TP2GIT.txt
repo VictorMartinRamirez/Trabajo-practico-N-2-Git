@@ -1,2 +1,3 @@
 Primer commit
 cambio realizado del repositorio remoto
+intento de hacer un cambio simultaneo
